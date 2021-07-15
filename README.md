@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/karan-vaishnav/Room-HomePage
-- Live Site URL: http://127.0.0.1:5501/
+- Solution URL: https://github.com/archi-jain/Room-HomePage
 
 ## My Process
 
@@ -42,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - https://www.frontendmentor.io/profile/@karan-vaishnav
+- Frontend Mentor - https://www.frontendmentor.io/profile/@archijain
